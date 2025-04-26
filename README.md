@@ -1,2 +1,3 @@
 # CV
-[resume](./resume.pdf)
+![cv](preview.png)
+

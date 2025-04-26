@@ -1,2 +1,2 @@
 # CV
-Cv
+[resume](./resume.pdf)
